@@ -1,6 +1,6 @@
 # Бот Торговые центры России
 ____
-![Uploading Видео-без-названия-—-сделано-в-Clipchamp-_1_.gif…]()
+![Видео-без-названия-—-сделано-в-Clipchamp-_1_](https://github.com/Chazarov/To-star/assets/152388064/091429cd-ca71-4d48-a20b-fd7ef4c81d17)
 ____
 __libs:__
 aiogram3
